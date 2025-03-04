@@ -1,0 +1,48 @@
+* {
+    background-color: rgb(241, 227, 227); /* Устанавливаем черный фон для всех элементов */
+    color: white; /* Устанавливаем белый цвет текста для всех элементов */
+}
+
+.logo {
+    position: flex;    
+    margin-top: -195px;
+    margin-left: 28%;
+ }
+
+ .sasha {
+    position: flex;    
+    margin-top: -200px;
+    margin-left: 36%;
+ }
+ 
+.SlovoSPB {
+    position: flex;
+    margin-top: 10px;
+    margin-left: 39%;
+    color: rgb(124, 80, 27);
+}
+
+.dima {
+    position: flex;
+    margin-top: auto;
+    margin-left: 45%;
+}
+
+body {
+    position: flex;
+    margin-left: 200px;
+    margin-right: 500px;
+}
+
+.Privet {
+    font-family: Arial, sans-serif; /* Шрифт */
+    font-size: 15px; /* Размер шрифта */
+    font-weight: 30; /* Толщина шрифта */
+    color: #333333; /* Цвет текста */
+    text-align: center; /* Выравнивание текста */
+    margin: 0px 0px; /* Отступы сверху и снизу */
+    padding: 10px; /* Внутренние отступы */
+    text-transform: uppercase; /* Преобразование текста в верхний регистр */
+    letter-spacing: 1px; /* Расстояние между буквами */
+    line-height: 1.2; /* Междустрочный интервал */
+}
