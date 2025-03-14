@@ -13,6 +13,9 @@
     position: flex;    
     margin-top: -220px;
     margin-left: 36%;
+    border: 10px inset #dfbcbced; /* Цвет и толщина рамки */
+    border-radius: 4px; /* Радиус скругления углов */
+    background-color: #f9f4ca; /* Цвет фона рамки */
  }
  
 .SlovoSPB {
@@ -27,14 +30,17 @@
     position: flex;
     margin-top: auto;
     margin-left: 45%;
+    border: 10px outset #dfbcbced; /* Цвет и толщина рамки */
+    border-radius: 4px; /* Радиус скругления углов */
+    background-color: #f9f4ca; /* Цвет фона рамки */
 }
 
 
 
 .Privet {
      /* Шрифт */
-    font-size: 15px; /* Размер шрифта */
-    font-weight: 30; /* Толщина шрифта */
+    font-size: 18px; /* Размер шрифта */
+    font-weight: 37px; /* Толщина шрифта */
     color: #333333; /* Цвет текста */
     text-align: center; /* Выравнивание текста */
     margin: 0px 10px; /* Отступы сверху и снизу */
@@ -85,6 +91,7 @@
     position: flex;
     margin-top: 2%;
     margin-left: 42.5%;
+
 }
 
 .SiN{

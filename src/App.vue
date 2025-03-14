@@ -33,7 +33,7 @@
       <img alt="Vue logo" class="dima" src="./assets/dima.jpg"  width="270" height="220"/>
       <div class="PrivetZ">
         <h1 class="Privet">
-          Узеали этих ребятишек? 
+          Узнали этих ребятишек? 
         </h1>
         
       <div class="text-container">
@@ -45,10 +45,10 @@
 
       </div>
       <h1 class="Privet">
-        СВАДЬБА СОСТОИТСЯ:
+        Торжественная регистрация состоится:
       </h1>
       <h1 class="SpecialPrivet">
-        8 сентября
+        13.06.2025
       </h1>
       <h1 class="Privet">
         C любовь, Александр и Анастасия!
@@ -57,8 +57,8 @@
       <img alt="Vue logo" class="obshiy" src="./assets/sex.png"  width="200" height="220"/>
       <img alt="Vue logo" class="Timing" src="./assets/Time.svg"  width="500" height="550"/>
       <h1 class="Privet">Место проведения</h1>
-      <h1 class="text-container">Наша садьба пройдет в Банкетном комплексе "Пять звёзд", шатёр "Зефир".
-        Он находится по адрессу: проспект Максима Горького, 2м, Чебоксары</h1>
+      <h1 class="text-container">Наше торжество пройдет в культурно развлекательном центре «Никольский».
+        Он находится по адресу: Липецкая область, село Никольское, Советская улица, 71.</h1>
         <img alt="Vue logo" class="Home" src="./assets/Home.svg"  width="100" height="110"/>
         <h1 class="Privet">Дресс-код</h1>
         <h1 class="text-container">Для нас главное - вашу присутствие!
@@ -67,6 +67,9 @@
         <img alt="Vue logo" class="Man" src="./assets/Woman.jpg"  width="160" height="220"/>
         <h1 class="Privet">Мужчины: рубашка, брюки, пиджак.</h1>
         <img alt="Vue logo" class="Man" src="./assets/Man.jpg"  width="160" height="240"/>
+        <h1 class="text-container">Детали</h1>
+        <h1 class="text-container">  
+          По любым вопросам о проведении торжества обращайтесь к нашему организатору: +7 919 162 10 06 или +7 904 681 89 83</h1>
     </div>
     </div>
   </body>
