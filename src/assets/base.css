@@ -28,7 +28,7 @@
 
 .dima {
     position: flex;
-    margin-top: auto;
+    margin-top: 0%;
     margin-left: 32%;
     border: 10px outset #dfbcbced; /* Цвет и толщина рамки */
     border-radius: 4px; /* Радиус скругления углов */
@@ -43,7 +43,7 @@
     font-weight: 37px; /* Толщина шрифта */
     color: #333333; /* Цвет текста */
     text-align: center; /* Выравнивание текста */
-    margin: 0px 10px; /* Отступы сверху и снизу */
+    margin: 0% 1%; /* Отступы сверху и снизу */
     padding: 10px; /* Внутренние отступы */
     text-transform: uppercase; /* Преобразование текста в верхний регистр */
     letter-spacing: 1px; /* Расстояние между буквами */
@@ -56,14 +56,12 @@
     font-weight: 30; /* Толщина шрифта */
     color: #333333; /* Цвет текста */
     text-align: center; /* Выравнивание текста */
-    margin: 0px 10px; /* Отступы сверху и снизу */
+    margin: 0px 29%; /* Отступы сверху и снизу */
     padding: 10px; /* Внутренние отступы */
     text-transform: uppercase; /* Преобразование текста в верхний регистр */
     letter-spacing: 1px; /* Расстояние между буквами */
     line-height: 1.2; /* Междустрочный интервал */ 
     width: 300px; /* фиксированная ширина */
-    border: 0px solid #000; /* граница для наглядности */
-    margin-left: 40%;
     overflow: hidden; /* скрытие переполненного текста */
     font-family: 'Papyrus', sans-serif;
 }
@@ -105,20 +103,20 @@
 .obshiy {
     position: flex;
     margin-top: 2%;
-    margin-left: 42.5%;
+    margin-left: 33%;
 
 }
 
 .SiN{
     position: flex;
     margin-top: auto;
-    margin-left: 45%;
+    margin-left: 40%;
 }
 
 .Timing {
     position: flex;    
     margin-top:  0px;
-    margin-left: 33%;
+    margin-left: 9%;
  }
 
  .Home {
