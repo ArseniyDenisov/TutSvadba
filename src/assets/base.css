@@ -6,7 +6,7 @@
 .logo {
     position: flex;    
     margin-top: -195px;
-    margin-left: 30%;
+    margin-left: 10%;
  }
 
  .sasha {
@@ -21,7 +21,7 @@
 .SlovoSPB {
     position: flex;
     margin-top: 10px;
-    margin-left: 39%;
+    margin-left: 32%;
     color: rgb(124, 80, 27);
     font-family: 'Papyrus', sans-serif;
 }
@@ -29,7 +29,7 @@
 .dima {
     position: flex;
     margin-top: auto;
-    margin-left: 45%;
+    margin-left: 32%;
     border: 10px outset #dfbcbced; /* Цвет и толщина рамки */
     border-radius: 4px; /* Радиус скругления углов */
     background-color: #f9f4ca; /* Цвет фона рамки */
@@ -74,16 +74,12 @@
     font-weight: 30; /* Толщина шрифта */
     color: #333333; /* Цвет текста */
     text-align: center; /* Выравнивание текста */
-    margin: 0px 680px; /* Отступы сверху и снизу */
-    padding: 7px; /* Внутренние отступы */
-    text-transform: uppercase; /* Преобразование текста в верхний регистр */
     letter-spacing: 1px; /* Расстояние между буквами */
-    line-height: 1.2; /* Междустрочный интервал */
     border: 0px solid #000; /* Цвет и толщина рамки */
     border-radius: 30px; /* Радиус скругления углов */
     background-color: #f9f4ca; /* Цвет фона рамки */
     font-family: 'Papyrus', sans-serif;
-
+    margin: 1px 230px; /* Отступы сверху и снизу */
 }
 
 .SpecialPrivet {
@@ -103,6 +99,8 @@
     font-family: 'Papyrus', sans-serif;
 
 }
+
+
 
 .obshiy {
     position: flex;

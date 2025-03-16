@@ -22,12 +22,13 @@
     
   </header>
   <body>
+    
     <div>
       
       <img alt="Vue logo" class="sasha" src="./assets/sasha.jpg"  width="220" height="225"/>
      
       <h1 class="SlovoSPB">
-        Саша гей <img alt="Vue logo" class="Serdce" src="./assets/Serdce.svg"  width="60" height="66"/>
+        Саша + Настя =  <img alt="Vue logo" class="Serdce" src="./assets/Serdce.svg"  width="60" height="66"/>
       </h1> 
       
       <img alt="Vue logo" class="dima" src="./assets/dima.jpg"  width="270" height="220"/>
