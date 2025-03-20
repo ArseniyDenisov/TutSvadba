@@ -55,7 +55,7 @@
         C любовь, Александр и Анастасия!
       </h1>
       <img alt="Vue logo" class="SiN" src="./assets/s+n.svg"  width="115" height="115"/>
-      <img alt="Vue logo" class="obshiy" src="./assets/sex.png"  width="200" height="220"/>
+      <img alt="Vue logo" class="sex" src="./assets/sex.png"  width="200" height="220"/>
       <img alt="Vue logo" class="Timing" src="./assets/Time.svg"  width="500" height="550"/>
       <h1 class="Privet">Место проведения</h1>
       <h1 class="text-container">Наше торжество пройдет в культурно развлекательном центре «Никольский».
@@ -68,8 +68,8 @@
         <img alt="Vue logo" class="Man" src="./assets/Woman.jpg"  width="160" height="220"/>
         <h1 class="Privet">Мужчины: рубашка, брюки, пиджак.</h1>
         <img alt="Vue logo" class="Man" src="./assets/Man.jpg"  width="160" height="240"/>
-        <h1 class="text-container">Детали</h1>
-        <h1 class="text-container">  
+        
+        <h1 class="text-container"><br>Детали <br>  <br>
           По любым вопросам о проведении торжества обращайтесь к нашему организатору: +7 919 162 10 06 или +7 904 681 89 83</h1>
     </div>
     </div>
