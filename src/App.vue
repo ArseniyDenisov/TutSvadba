@@ -62,15 +62,17 @@
         Он находится по адресу: Липецкая область, село Никольское, Советская улица, 71.</h1>
         <img alt="Vue logo" class="Home" src="./assets/Home.svg"  width="100" height="110"/>
         <h1 class="Privet">Дресс-код</h1>
-        <h1 class="text-container">Для нас главное - вашу присутствие!
+        <h1 class="text-container">Для нас главное - ваше присутствие!
           Но мы будем рады, если вы поддержите стиль нашей свальбы и нашей цветовой палитры:</h1>
+          <img alt="Vue logo" class="palitra" src="./assets/palitra.png"  width="450" height="70"/>
         <h1 class="text-container">Девушки: вечерние платья, костюмы, юбки блузки.</h1>
         <img alt="Vue logo" class="Man" src="./assets/Woman.jpg"  width="160" height="220"/>
         <h1 class="Privet">Мужчины: рубашка, брюки, пиджак.</h1>
         <img alt="Vue logo" class="Man" src="./assets/Man.jpg"  width="160" height="240"/>
         
         <h1 class="text-container"><br>Детали <br>  <br>
-          По любым вопросам о проведении торжества обращайтесь к нашему организатору: +7 919 162 10 06 или +7 904 681 89 83</h1>
+          По любым вопросам о проведении торжества обращайтесь к нашему организатору: +7 919 162 10 06 или +7 904 681 89 83
+        <br><br>Пожалуйста подтвердите своё присутствие до 01.05.2025г</h1>
     </div>
     </div>
   </body>
